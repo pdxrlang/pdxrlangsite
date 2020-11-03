@@ -2,9 +2,9 @@
 title: "Meetups"
 ---
 
-### Upcoming meetups
+Join our Meetup Group: https://www.meetup.com/portland-r-user-group/
 
-TBD
+As a group, we've hosted many different events and on many different topics in the past. We were also the originators and hosts of [Cascadia-R Conference](https://cascadiarconf.com) for the first two years (2017-2018).
 
 ### Past meetups
 
