@@ -1,0 +1,54 @@
+---
+title: "Meetups"
+---
+
+### Upcoming meetups
+
+TBD
+
+### Past meetups
+
+*   2020-04-08 - [Tidy Tuesday Coding Club](https://www.meetup.com/portland-r-user-group/events/269668795/)
+*   2019-10-15 - [ruODK? Electronic Data Capture with R and ODK: From form design to insight in 0$](https://www.meetup.com/portland-r-user-group/events/264758652/)
+*   2019-09-21 - [Craggy: Data Vis, Collab, and Discussion about King County Evictions](https://www.meetup.com/portland-r-user-group/events/264696398/)
+*   2019-08-22 - [Craggy: Data Exploration Session via Zoom](https://www.meetup.com/portland-r-user-group/events/264205386/)
+*   2019-06-04 - [rstudio::conf 2019 Watch Party](https://www.meetup.com/portland-r-user-group/events/259131433/)
+*   2019-03-12 - [Introduction to Spatial Data Analysis with R](https://www.meetup.com/portland-r-user-group/events/258271365/)
+*   2019-04-30 - [Object Oriented Systems in R: S3, S4, and R6](https://www.meetup.com/portland-r-user-group/events/259511234/)
+*   2018-09-27 - [R Package Development Workshop](https://www.meetup.com/portland-r-user-group/events/253797396/)
+*   2018-08-14 - [OHSU Data Viz Lab Talks Night](https://www.meetup.com/portland-r-user-group/events/253069227/)
+*   2018-07-24 - [useR 2018 Watch Party](https://www.meetup.com/portland-r-user-group/events/252918702/)
+*   2018-05-17 - [Talk night: slack and tidy](https://www.meetup.com/portland-r-user-group/events/250257373/)
+*   2018-05-10 - [Symposium on Data Science and Civic Data](https://www.meetup.com/portland-r-user-group/events/250075408/)
+*   2018-03-27 - [R in industry night](https://www.meetup.com/portland-r-user-group/events/248703297/)
+*   2018-02-26 - [rstudio::conf - Lightning talks from conference attendees](https://www.meetup.com/portland-r-user-group/events/247363596/)
+*   2018-03-06 - [Shiny workshop](https://www.meetup.com/portland-r-user-group/events/247752115/)
+*   2018-01-16 - [infer: a package for tidy statistical inference](https://www.meetup.com/portland-r-user-group/events/246102554/)
+*   2017-10-16 - [Text Mining with Tidy Data Principles with Julia Silge](https://www.meetup.com/portland-r-user-group/events/243498840/)
+*   2017-09-14 - [Up and running with blogdown](https://www.meetup.com/portland-r-user-group/events/242600475) —- [Video](https://www.youtube.com/watch?v=edyzTo3DF4U)
+*   2017-08-23 - [useR 2017 Recap!](https://www.meetup.com/portland-r-user-group/events/242314927/)
+*   2017-07-11 - [Ted Laderas: How to not be afraid of your data - teaching EDA using Shiny](https://www.meetup.com/portland-r-user-group/events/240846589/)
+*   2017-05-30 - [Chester Ismay: Creating the fivethirtyeight R data package](https://www.meetup.com/portland-r-user-group/events/239484692/) —- [Video](https://www.youtube.com/watch?v=UUc5u0NOvhg&t=2s)
+*   2017-05-10 - [Symposium on Data Science and Elections](https://www.meetup.com/portland-r-user-group/events/239592848/)
+*   2017-04-06 - [Talk night: Jasmine Dumas and Lina Gao](https://www.meetup.com/portland-r-user-group/events/236125171/)
+*   2017-03-22 - [Andrew Flowers: The Six Types of Data Journalism Stories](https://www.meetup.com/portland-r-user-group/events/237506231/)
+*   2017-02-13 - [Text mining & association rule mining in R to enhance public health surveillance](https://www.meetup.com/portland-r-user-group/events/236703908/)
+*   2017-01-10 - [R and Machine Learning](https://www.meetup.com/Women-Who-Code-Portland/events/235867242/) - Joint meetup with [Women Who Code Portland](https://www.meetup.com/Women-Who-Code-Portland/)
+*   2016-12-07 - [shiny night: tutorial and use cases](https://www.meetup.com/portland-r-user-group/events/235649828/)
+*   2016-10-25 - [Tim Kaye: Fun With Data Streams in R](http://www.meetup.com/portland-r-user-group/events/233946514/)
+*   2016-10-10 - [Hadley Wickham - Data science with R](http://www.meetup.com/portland-r-user-group/events/232680753/) —- [Video](https://www.youtube.com/watch?v=K-ss_ag2k9E)
+*   2016-09-21 - [Robert Dodier: Introduction to Bayesian inference in R](http://www.meetup.com/portland-r-user-group/events/233144774/)
+*   2016-08-17 - [Chester Ismay: Creating and using templates in R Markdown](http://www.meetup.com/portland-r-user-group/events/231100247/) —- [Video](https://www.youtube.com/watch?v=3YTxGDoBeS0)
+*   2016-08-09 - [De’Mel Mojica: Probabilistic Approaches to Multi-dimensional Fuzzy Joins - A GeoSpatial Example](http://www.meetup.com/portland-r-user-group/events/230860024/)
+*   2016-08-08 - [David Robinson - broom: tidy model outputs](http://www.meetup.com/portland-r-user-group/events/232708517/) —- [Video](https://www.youtube.com/watch?v=eotoyMpgbes)
+*   2016-07-12 - [Two talks: A/B testing analysis and http requests](http://www.meetup.com/portland-r-user-group/events/230200855/) —- [request talk video](https://www.youtube.com/watch?v=B3zkgt04mNE)
+*   2016-05-09 - [Collaborative coding with GitHub and RStudio server](http://www.meetup.com/portland-r-user-group/events/229099024/) —- [Video](https://www.youtube.com/watch?v=MHWX0f3TG4I)
+*   2016-04-05 - [NLP meets Politics-Experiment­s w/ Word-Vectors and 2016 Campaign Debate Rhetoric](http://www.meetup.com/portland-r-user-group/events/229130207/) — ([Video](https://www.youtube.com/watch?v=3jUhUoCuWHs) - [Winston’s Slides](https://github.com/tactical-Data/SlidesPDXDataScienceApril2016))
+*   2016-03-24 - [R at Microsoft and R in Visual Studio](http://www.meetup.com/portland-r-user-group/events/229081827/) — ([Video](https://www.youtube.com/watch?v=tQlzukyC8VY) - [Joe’s Slides](http://files.meetup.com/1685557/R%20at%20Microsoft_Portland_RUG.pptx))
+*   2016-02-18 - [Application of analytics for optimizing wireless plans for IoT devices](http://www.meetup.com/portland-r-user-group/events/228542752/)
+*   2015-11-18 - [R Workshop - Data Modeling with Caret](http://www.meetup.com/portland-r-user-group/events/226400619/)
+*   2015-09-16 - [Lightning Talks](http://www.meetup.com/portland-r-user-group/events/221901470/)
+*   2015-08-19 - [[Double R Workshop] Exploratory Analysis with R; Custom Functions in R](http://www.meetup.com/portland-r-user-group/events/224290472/)
+*   2015-08-17 - [Erin LeDell - Scalable Machine Learning in R with H2O](http://www.meetup.com/portland-r-user-group/events/224100404/)
+*   2015-05-13 - [Drew Lanenga - Using the Best Tool for the Job](http://www.meetup.com/portland-r-user-group/events/222210878/)
+*   2015-04-15 - [Kevin Ushey - A glimpse at new features coming to RStudio](http://www.meetup.com/portland-r-user-group/events/221612364/)

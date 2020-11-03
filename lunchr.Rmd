@@ -1,0 +1,31 @@
+---
+title: LuncheR
+---
+
+LuncheR is our monthly lunch meetup where we meet at a restaurant and catch up and talk R.
+
+Due to COVID, LuncheR is currently on hiatus.
+
+### Past
+
+*   2020-02-19 [noon @ Laughing Planet](https://www.meetup.com/portland-r-user-group/events/268122016/)
+*   2019-10-03 [noon @ Elephant's Deli](https://www.meetup.com/portland-r-user-group/events/264727318/)
+*   2019-07-19 [noon @ Elephant's Deli](https://www.meetup.com/portland-r-user-group/events/262625891/)
+*   2019-05-30 [noon @ Boke Bowl](https://www.meetup.com/portland-r-user-group/events/261029446/)
+*   2019-03-19 [noon @ Pine State Biscuits on SE Division](https://www.meetup.com/portland-r-user-group/events/258686920/)
+*   2019-01-03 [noon @ Teote](https://www.meetup.com/portland-r-user-group/events/257168228/?isFirstPublish=true)
+*   2018-12-04 [noon @ Marukin Ramen](https://www.meetup.com/portland-r-user-group/events/256443629/)
+*   2018-11-07 [noon @ Elephants Delicatessen](https://www.meetup.com/portland-r-user-group/events/255779669)
+*   2018-09-18 [noon @ Laughing Planet](https://www.meetup.com/portland-r-user-group/events/253816995/)
+*   2018-10-10 [noon @ MOD Pizza](https://www.meetup.com/portland-r-user-group/events/253962778/)
+*   2018-08-14 [noon @ Riyadh’s Lebanese Restaurant](https://www.meetup.com/portland-r-user-group/events/252369697/)
+*   2018-07-18 [noon @ Boke Bowl](https://www.meetup.com/portland-r-user-group/events/252369043/)
+*   2018-06-07 [noon @ Director’s Park](https://www.meetup.com/portland-r-user-group/events/250077668/)
+*   2018-05-08 [noon @ Elephants Delicatessen](https://www.meetup.com/portland-r-user-group/events/249434728/)
+*   2018-04-19 [noon @ Pine Street Market](https://www.meetup.com/portland-r-user-group/events/249434723/)
+*   2018-03-06 [noon @ Mi Mero Mole](https://www.meetup.com/portland-r-user-group/events/247656593/)
+*   2018-02-05 [noon @ Bambuza](https://www.meetup.com/portland-r-user-group/events/246654046)
+*   2017-12-05 [noon @ Kalé](https://www.meetup.com/portland-r-user-group/events/245289239)
+*   2017-10-25 [noon @ Laughing Planet Cafe](https://www.meetup.com/portland-r-user-group/events/244320785)
+*   2017-09-28 [noon @ Tangier Restaurant](https://www.meetup.com/portland-r-user-group/events/243188678)
+*   2017-08-23 [noon @ Mi Mero Mole](https://www.meetup.com/portland-r-user-group/events/241918971/)

@@ -1,0 +1,20 @@
+name: "pdxrlangsite"
+title: "Portland R User Group"
+description: |
+  My Website
+output_dir: "_site"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Code of Conduct"
+      href: code-of-conduct.html
+    - text: "Events"
+      menu:
+        - text: "Aggregate"
+          href: aggregate.html
+        - text: "LunchR"
+          href: lunchr.html
+        - text: "Meetups"
+          href: meetup.html
+output: distill::distill_article
