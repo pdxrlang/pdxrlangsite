@@ -18,7 +18,7 @@ We are the R user group for Portland, Oregon. R is a free software environment f
 
 We have regularly scheduled monthly meetups ([aggregate](aggregate.html)) and also host other events.
 
-Follow news about the group on Twitter at [`@pdxrlang`](https://twitter.com/pdxrlang)
+Follow news about the group on Twitter at [\@pdxrlang](https://twitter.com/pdxrlang)
 
 # Join the PDX Data Slack
 
