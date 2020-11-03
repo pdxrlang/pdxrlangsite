@@ -5,6 +5,8 @@ description: |
 theme: pdxrlang.css
 output_dir: "_site"
 navbar:
+  logo:
+    image: "images/Rlogo.png"
   right:
     - text: "Home"
       href: index.html
