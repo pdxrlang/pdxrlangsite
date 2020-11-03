@@ -14,18 +14,22 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-We are the local R user group for Portland, Oregon. R is a free software environment for statistical computing and graphics. Our goal is to support and share R experience and knowledge among its users in the Portland community.
+We are the R user group for Portland, Oregon. R is a free software environment for statistical computing and graphics. Our goal is to support and share R experience and knowledge among its users in the Portland community.
 
-We have regularly scheduled monthly meetups ([aggregate](meetups.html)) and also host other events.
+We have regularly scheduled monthly meetups ([aggregate](aggregate.html)) and also host other events.
 
 Follow news about the group on Twitter at [@pdxrlang](https://twitter.com/pdxrlang)
 
-Join other pdxrlang’ers and other portland area data science folks at our slack [https://pdxdata.slack.com](https://pdxdata.slack.com)
+Join other pdxrlang’ers and other portland area data science folks at our slack [https://pdxdata.slack.com](https://pdxdata.slack.com) - Invite yourself [here](https://join.slack.com/t/pdxdata/shared_invite/zt-4yxw4ic6-3OWOKkidrTeGkNgra5vdCw).
 
+# Upcoming Events
+
+- November 17 - Kelly O'Briant - Introduction to RStudio Connect 
+- December 8 - aggregate - featuring Advanced RMarkdown tips by Brendan Cullen
 
 # Want to give a talk?
 
-Get in touch at [@pdxrlang](https://twitter.com/pdxrlang) on Twitter, or email at pdxrlang@gmail.com, or if you’re a Meetup.com member you can message us there.
+We always want people to share their R knowledge. You can give a short lightning style talk as part of aggreate, or a longer form talk about an R Topic. Get in touch via email at pdxrlang@gmail.com, or if you’re a Meetup.com member you can message us there.
 
 # Acknowledgements
 
