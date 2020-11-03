@@ -16,5 +16,5 @@ navbar:
         - text: "LunchR"
           href: lunchr.html
         - text: "Meetups"
-          href: meetup.html
+          href: meetups.html
 output: distill::distill_article
