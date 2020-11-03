@@ -18,11 +18,15 @@ We are the R user group for Portland, Oregon. R is a free software environment f
 
 We have regularly scheduled monthly meetups ([aggregate](aggregate.html)) and also host other events.
 
-Follow news about the group on Twitter at [@pdxrlang](https://twitter.com/pdxrlang)
+Follow news about the group on Twitter at [`@pdxrlang`](https://twitter.com/pdxrlang)
 
 # Join the PDX Data Slack
 
-Join other pdxrlang’ers and other portland area data science folks at our slack [https://pdxdata.slack.com](https://pdxdata.slack.com) - Invite yourself [here](https://join.slack.com/t/pdxdata/shared_invite/zt-4yxw4ic6-3OWOKkidrTeGkNgra5vdCw).
+Join other pdxrlang’ers and other portland area data science folks at the PDX slack: 
+
+[pdxdata.slack.com](https://pdxdata.slack.com)  
+
+You can Invite yourself [here](https://join.slack.com/t/pdxdata/shared_invite/zt-4yxw4ic6-3OWOKkidrTeGkNgra5vdCw).
 
 # Upcoming Events
 
@@ -31,7 +35,7 @@ Join other pdxrlang’ers and other portland area data science folks at our slac
 
 # Want to give a talk?
 
-We always want people to share their R knowledge. You can give a short lightning style talk as part of aggreate, or a longer form talk about an R Topic. Get in touch via email at pdxrlang@gmail.com, or if you’re a Meetup.com member you can message us there.
+We always want people to share their R knowledge. You can give a short lightning style talk as part of aggregate, or a longer form talk about an R Topic as a meetup session. Get in touch via email at pdxrlang@gmail.com, or if you’re a Meetup.com member you can message us there.
 
 # Acknowledgements
 

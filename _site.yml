@@ -1,7 +1,8 @@
 name: "pdxrlangsite"
 title: "Portland R User Group"
 description: |
-  My Website
+  Website for Portland R User Group
+theme: pdxrlang.css
 output_dir: "_site"
 navbar:
   right:
