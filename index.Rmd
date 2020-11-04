@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-We are the R user group for Portland, Oregon. R is a free software environment for statistical computing and graphics. Our goal is to support and share R experience and knowledge among its users in the Portland community.
+We are the R user group for Portland, Oregon. Our goal is to support and share R experience and knowledge among its users in the Portland community.
 
 We have regularly scheduled monthly meetups ([aggregate](aggregate.html)) and also host [other events](meetups.html).
 
@@ -22,7 +22,7 @@ Follow news about the group on Twitter at [\@pdxrlang](https://twitter.com/pdxrl
 
 # Join the PDX Data Slack
 
-Join other pdxrlang’ers and other portland area data science folks at the PDX slack: 
+Join other pdxrlang’ers and other portland area data science folks at the PDXData slack: 
 
 [pdxdata.slack.com](https://pdxdata.slack.com)  
 
