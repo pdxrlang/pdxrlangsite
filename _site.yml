@@ -22,4 +22,8 @@ navbar:
           href: lunchr.html
         - text: "MEETUPS"
           href: meetups.html
+    - icon: fab fa-github
+      href: https://github.com/pdxrlang
+    - icon: fa fa-twitter
+      href: https://twitter.com/pdxrlang
 output: distill::distill_article
