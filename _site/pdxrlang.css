@@ -13,7 +13,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@800&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Lato:400,400i,700&display=swap');
 
 html {
   /*-- Main font sizes --*/
@@ -32,7 +32,7 @@ html {
   --heading-font:    'Open Sans', sans-serif;
   --mono-font:       monospace;
   --body-font:       'Inter', sans-serif;
-  --navbar-font:     'Inter', sans-serif;  /* websites + blogs only */
+  --navbar-font:     'Lato', sans-serif;  /* websites + blogs only */
 }
 
 /*-- ARTICLE METADATA --*/
