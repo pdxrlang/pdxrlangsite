@@ -10,9 +10,11 @@ navbar:
   right:
     - text: "Home"
       href: index.html
+    - text: "Meetup"
+      href: "https://www.meetup.com/portland-r-user-group/"
     - text: "Code of Conduct"
       href: code-of-conduct.html
-    - text: "Events"
+    - text: "Past Events"
       menu:
         - text: "Aggregate"
           href: aggregate.html
