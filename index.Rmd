@@ -35,7 +35,9 @@ You can Invite yourself [here](https://join.slack.com/t/pdxdata/shared_invite/zt
 
 # Want to give a talk?
 
-We always want people to share their R knowledge. You can give a short lightning style talk as part of aggregate, or a longer form talk about an R Topic as a meetup session. Get in touch via email at pdxrlang@gmail.com, or if you’re a Meetup.com member you can message us there.
+We always want people to share their R knowledge. You can give a short lightning style talk as part of aggregate, or a longer form talk about an R Topic as a meetup session. 
+
+Get in touch via email at pdxrlang@gmail.com, or if you’re a Meetup.com member you can message us there.
 
 # Acknowledgements
 
