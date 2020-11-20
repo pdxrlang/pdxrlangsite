@@ -20,14 +20,6 @@ We have regularly scheduled monthly meetups ([aggregate](aggregate.html)) and al
 
 Follow news about the group on Twitter at [\@pdxrlang](https://twitter.com/pdxrlang)
 
-# Join the PDX Data Slack
-
-Join other pdxrlang’ers and other portland area data science folks at the PDXData slack: 
-
-[pdxdata.slack.com](https://pdxdata.slack.com)  
-
-You can Invite yourself [here](https://join.slack.com/t/pdxdata/shared_invite/zt-4yxw4ic6-3OWOKkidrTeGkNgra5vdCw).
-
 # Upcoming Events
 
 - December 8 - aggregate - featuring Advanced RMarkdown tips by Brendan Cullen

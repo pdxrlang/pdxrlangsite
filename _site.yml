@@ -12,6 +12,8 @@ navbar:
       href: index.html
     - text: "MEETUP"
       href: "https://www.meetup.com/portland-r-user-group/"
+    - text: "SLACK"
+      href: slack.html 
     - text: "CODE OF CONDUCT"
       href: code-of-conduct.html
     - text: "PAST EVENTS"

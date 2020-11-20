@@ -1,0 +1,23 @@
+---
+title: "Slack"
+description: |
+  Information on Joining the Slack
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Join the PDX Data Slack Workspace
+
+Join other pdxrlang’ers and other portland area data science folks at the PDXData Slack Workspace: 
+
+[pdxdata.slack.com](https://pdxdata.slack.com)  
+
+There is an #r channel, a #jobs channel, as well as lots of other discussion channels there.
+
+You can Invite yourself [here](https://join.slack.com/t/pdxdata/shared_invite/zt-4yxw4ic6-3OWOKkidrTeGkNgra5vdCw) - you'll need to create a Slack Account.
+
+
