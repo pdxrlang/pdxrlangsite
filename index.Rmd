@@ -30,7 +30,6 @@ You can Invite yourself [here](https://join.slack.com/t/pdxdata/shared_invite/zt
 
 # Upcoming Events
 
-- November 17 - Kelly O'Briant - Introduction to RStudio Connect 
 - December 8 - aggregate - featuring Advanced RMarkdown tips by Brendan Cullen
 
 # Want to give a talk?
