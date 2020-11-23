@@ -22,13 +22,13 @@ Follow news about the group on Twitter at [\@pdxrlang](https://twitter.com/pdxrl
 
 # Upcoming Events
 
-- December 8 - aggregate - featuring Advanced RMarkdown tips by Brendan Cullen
+- [December 8 - aggregate](https://www.meetup.com/portland-r-user-group/events/274774392/) - featuring Advanced RMarkdown tips by Brendan Cullen
 
 # Want to give a talk?
 
 We always want people to share their R knowledge. You can give a short lightning style talk as part of aggregate, or a longer form talk about an R Topic as a meetup session. 
 
-Get in touch via email at pdxrlang@gmail.com, or if you’re a Meetup.com member you can message us there.
+Get in touch via direct message on Twitter  [\@pdxrlang](https://twitter.com/pdxrlang), or if you’re a Meetup.com member you can [message us there](https://secure.meetup.com/messages/).
 
 # Acknowledgements
 
