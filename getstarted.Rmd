@@ -12,11 +12,11 @@ We get this question a lot, so we thought we'd just add a page highlighting free
 
 ## [R-Bootcamp](https://r-bootcamp.netlify.app)
 
-This is an interactive bootcamp by Ted Laderas and Jessica Minnier
+This is an interactive bootcamp by Ted Laderas and Jessica Minnier that teaches you the basics of the `tidyverse`. No R Installs required!
 
 ## [Ready for R](https://ready4r.netlify.app/mailing)
 
-This is a short 6 part course by Ted Laderas consisting of RStudio Cloud notebooks and Videos talking about the basics of the `tidyverse` and using it in your everyday work.
+This is a short 6 part course by Ted Laderas and Aaron Coyner consisting of RStudio Cloud notebooks and Videos talking about the basics of the `tidyverse` and using it in your everyday work. You'll need to signup at the mailing list to gain access to the materials.
 
 ## [R For the Rest of Us](https://rfortherestofus.com/)
 
@@ -24,7 +24,7 @@ Another great introductory course by David Keyes that shows that R is really for
 
 # [RYouWithMe](https://rladiessydney.org/courses/ryouwithme/)
 
-This one is from R-Ladies by Lisa Williams, Danielle Navarro, and Jen Richmond. Very fun and accessible.
+This one is from R-Ladies by Lisa Williams, Danielle Navarro, and Jen Richmond. Very fun and accessible!
 
 # Going Further
 
