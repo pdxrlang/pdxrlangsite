@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-We are the R user group for Portland, Oregon. Our goal is to support and share R experience and knowledge among its users in the Portland community.
+We are the R user group for Portland, Oregon. Our goal is to support and share R experience and knowledge among its users in the Portland community. 
 
 We have regularly scheduled monthly meetups ([aggregate](aggregate.html)) and also host [other events](meetups.html).
 

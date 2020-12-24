@@ -1,0 +1,35 @@
+---
+title: "Getting Started with R"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Where Do I Start with R?
+
+We get this question a lot, so we thought we'd just add a page highlighting free learning resources that help you jump into R.
+
+## [R-Bootcamp](https://r-bootcamp.netlify.app)
+
+This is an interactive bootcamp by Ted Laderas and Jessica Minnier
+
+## [Ready for R](https://ready4r.netlify.app/mailing)
+
+This is a short 6 part course by Ted Laderas consisting of RStudio Cloud notebooks and Videos talking about the basics of the `tidyverse` and using it in your everyday work.
+
+## [R For the Rest of Us](https://rfortherestofus.com/)
+
+Another great introductory course by David Keyes that shows that R is really for you.
+
+# [RYouWithMe](https://rladiessydney.org/courses/ryouwithme/)
+
+This one is from R-Ladies by Lisa Williams, Danielle Navarro, and Jen Richmond. Very fun and accessible.
+
+# Going Further
+
+Here are more intermediate resources if you need to go further.
+
+## [Learn R for Free](https://www.learnr4free.com/)
+
+A catalog of learning resources compiled by Mine Dogucu covering all types of tutorials and resources. In English, Turkish, and Spanish.

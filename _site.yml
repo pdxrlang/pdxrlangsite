@@ -16,6 +16,8 @@ navbar:
       href: slack.html 
     - text: "CODE OF CONDUCT"
       href: code-of-conduct.html
+    - text: "GET STARTED"
+      href: getstarted.html
     - text: "PAST EVENTS"
       menu:
         - text: "AGGREGATE"
