@@ -18,13 +18,13 @@ This is an interactive bootcamp by Ted Laderas and Jessica Minnier that teaches 
 
 This is a short 6 part course by Ted Laderas and Aaron Coyner consisting of RStudio Cloud notebooks and Videos talking about the basics of the `tidyverse` and using it in your everyday work. You'll need to signup at the mailing list to gain access to the materials.
 
+## [RYouWithMe](https://rladiessydney.org/courses/ryouwithme/)
+
+This one is from R-Ladies Sydney by Lisa Williams, Danielle Navarro, and Jen Richmond. Very fun and accessible!
+
 ## [R For the Rest of Us](https://rfortherestofus.com/)
 
 Another great introductory course by David Keyes that shows that R is really for you.
-
-# [RYouWithMe](https://rladiessydney.org/courses/ryouwithme/)
-
-This one is from R-Ladies by Lisa Williams, Danielle Navarro, and Jen Richmond. Very fun and accessible!
 
 # Going Further
 
@@ -33,3 +33,7 @@ Here are more intermediate resources if you need to go further.
 ## [Learn R for Free](https://www.learnr4free.com/)
 
 A catalog of learning resources compiled by Mine Dogucu covering all types of tutorials and resources. In English, Turkish, and Spanish.
+
+## [R for Data Science Community](https://www.rfordatasci.com/)
+
+Learn R with others. They frequently do book clubs reviewing R books chapter by chapter, and they have open office hours where you can ask questions. Free to join!
