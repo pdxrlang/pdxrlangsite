@@ -22,7 +22,7 @@ Follow news about the group on Twitter at [\@pdxrlang](https://twitter.com/pdxrl
 
 # Upcoming Events
 
-- [January 21st - aggregate](https://www.meetup.com/portland-r-user-group/events/275452483/) - tideyselect functions from Ted Laderas.
+- [January 21st - aggregate](https://www.meetup.com/portland-r-user-group/events/275452483/) - `{tidyselect}` functions from Ted Laderas.
 
 # Want to give a talk?
 
