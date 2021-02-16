@@ -22,7 +22,7 @@ Follow news about the group on Twitter at [\@pdxrlang](https://twitter.com/pdxrl
 
 # Upcoming Events
 
-- [January 21st - aggregate](https://www.meetup.com/portland-r-user-group/events/275452483/) - `{tidyselect}` functions from Ted Laderas.
+- Hey folks, due to the weather situation and so many people without power/internet/heat in the area we are rescheduling tonight's event for next week. We look forward to seeing everyone next week, stay safe.
 
 # Want to give a talk?
 
