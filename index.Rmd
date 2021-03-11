@@ -22,9 +22,7 @@ Follow news about the group on Twitter at [\@pdxrlang](https://twitter.com/pdxrl
 
 # Upcoming Events
 
-- Hey folks, due to the weather situation and so many people without power/internet/heat in the area we are rescheduling tonight's event for next week. We look forward to seeing everyone next week, stay safe.
-
-- [February 23rd - aggregate](https://www.meetup.com/portland-r-user-group/events/276194867/) - Jim Tyhurst will do a short demonstration of `git` commands.
+- [March 15](https://www.meetup.com/portland-r-user-group/events/276692700/) - No talk/topic this month, just bring your sweet selves and choose your own adventuRe.
 
 # Want to give a talk?
 
